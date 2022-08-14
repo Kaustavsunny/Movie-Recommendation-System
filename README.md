@@ -1,4 +1,7 @@
 # Movie Recommender System
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 A web based movie recommendation system using content based filtering
 and recommendation based on the idea that is if a person likes a movie 
